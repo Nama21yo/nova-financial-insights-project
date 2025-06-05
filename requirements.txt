@@ -8,3 +8,4 @@ textblob
 scikit-learn # For TF-IDF, etc.
 yfinance  # For fetching stock data
 TA-Lib    # For technical indicators (Installation can be tricky!)
+vaderSentiment
