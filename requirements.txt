@@ -6,4 +6,5 @@ jupyterlab # or notebook
 nltk
 textblob
 scikit-learn # For TF-IDF, etc.
-#  TA-Lib and yfinance later
+yfinance  # For fetching stock data
+TA-Lib    # For technical indicators (Installation can be tricky!)
